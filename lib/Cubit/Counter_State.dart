@@ -1,5 +1,3 @@
-abstract class CounterState {}
+class CounterAIncrementState {}
 
-class CounterAIncrementState extends CounterState {}
-
-class CounterBIncrementState extends CounterState {}
+class CounterBIncrementState {}
